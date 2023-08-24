@@ -1,6 +1,14 @@
-### computingnode.com
-
 ### Hi there 👋
+
+## We work with all side of computers. 
+ - Desktop/Web Application Development
+ - Computer Hardware Procurement
+ - Network Hardware Procurement
+ - Computer/Network Hardware Repair
+
+## Our offices are located in two counteries:
+- United States (Main Office)
+- Nepal (Branch Office)
 
 
 <!--
