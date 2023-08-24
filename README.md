@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-Website: [computingnode.com](https://www.computingnode.com)
-
 ## We work with all side of computers. 
- - Desktop/Web Application Development
- - Computer Hardware Procurement
- - Network Hardware Procurement
- - Computer/Network Hardware Repair
+ - Desktop Application Development
+ - Web Application Development
+ - ML/DL Application Development
 
 ## Our offices are located in two counteries:
 - United States (Main Office)
