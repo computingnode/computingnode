@@ -5,10 +5,6 @@
  - Web Application Development
  - ML/DL Application Development
 
-## Our offices are located in two counteries:
-- United States (Main Office)
-- Nepal (Branch Office)
-
 
 <!--
 **computingnode/computingnode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
