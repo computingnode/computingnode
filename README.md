@@ -1,9 +1,8 @@
-### Hi there 👋
-
-## We work with all side of computers. 
- - Desktop Application Development
- - Web Application Development
- - ML/DL Application Development
+## We specialize in the following applications
+ - Desktop Applications
+ - Web Applications
+ - Computer Vision Applications
+ - Natural Language Applications
 
 
 <!--
